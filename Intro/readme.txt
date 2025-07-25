@@ -26,3 +26,5 @@ We are getting ahead again about parent classes we will tackle them in another c
 methods on the other hand is our behavior we can say that methods are like functions. In fact we can interchange the terms function and methods but for clarity we should always use methods.
 
 There should only be one class per file it is good practice but we can have multiple classes in one file. There should only be one public class in a file and this class is the top level class and the same file name with the java file. If this is not followed we will have compiler error.
+
+We are getting ahead already time for some update.
