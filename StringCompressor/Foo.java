@@ -36,6 +36,8 @@ public class Foo{
       index++;
     }
     length += (rcount.length+1);
+  } else {
+    length += 1;
   }
     return length;
   }
