@@ -1,10 +1,10 @@
 public class Main {
 
   final static public void main(final String args[]) {
-    Foo foo = new Foo();
+    var foo = new FooImproved();
     char[] chars = {'a','a','b','b','b','b','b','b','b','b','b','b','b','b','c','c','c'};
     helpPrint(chars);
-    
+
     int length = foo.compress(chars);
     helpPrint(chars);
 
