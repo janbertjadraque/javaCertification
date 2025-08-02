@@ -35,7 +35,7 @@ Comment I may have worked on this for about an hour but I have iterated with abo
 was using VS code and had tech difficulties with using the run with debug feature so ended up not using it and turned to system out debugging instead.
 
 Anyway I had this challenge for my entrance exam for a job interview I had with one of the startups. The difficult part was I was given 15 minutes and without using the internet 
-and a compiler and the code should be runnable and should be correct the first time which got me thinking that perhaps this was a meant to fail test, so 
+and a an IDE, I was using an online java playground compiler without autocomplete features and the code should be runnable and should pass all testcases which got me thinking that perhaps this was a meant to fail test, so 
 I did my best but I think my output then was a psuedocode and not runnable. Sadly I did not get the job.
 
 Well at least it got me thinking and here I am now attempting at it again but using a whole hour.
